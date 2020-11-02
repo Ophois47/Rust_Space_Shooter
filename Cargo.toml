@@ -1,0 +1,11 @@
+[package]
+name = "bevy_tests"
+version = "0.1.0"
+authors = ["Ophois47 <dpetnick89@gamil.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+bevy = ""
+derive_deref = ""
